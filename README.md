@@ -3,7 +3,7 @@
 ## 📌 **Project Overview**
 
 **Grabit** is a Power BI dashboard built using **50,000+ grocery app records** to analyze sales performance, customer purchasing behavior, and product-level insights.
-The project helps identify revenue trends, optimize product visibility, and improve business decision-making.
+The project helps identify revenue trends, optimize product visibility, and improve data-driven business decisions.
 
 ---
 
@@ -16,7 +16,7 @@ Perform end-to-end analysis of a large grocery dataset to uncover insights relat
 ## 👨‍💻 **My Role**
 
 * Cleaned, preprocessed, and transformed raw data
-* Built data model and DAX measures
+* Built the data model and DAX measures
 * Designed an interactive Power BI dashboard
 * Generated actionable insights for business growth
 
@@ -47,32 +47,29 @@ Data was cleaned for missing values, formatting inconsistencies, and outliers.
 
 ## 📊 **Dashboard Highlights**
 
-* Total Sales & Average Sales
+* Total Sales & Average Sales Metrics
 * Item Rating Distribution
 * Sales by Item Type & Fat Content
 * Outlet Establishment Year Trends
 * Performance by Outlet Size, Location Tier, and Type
-* High-visibility vs low-performing item categories
-* Interactive slicers for better exploration
+* High-visibility vs low-performing product categories
+* Interactive slicers for seamless insight exploration
 
 ---
 
 ## 🔍 **Key Insights**
 
-* Tier 2 outlets show the **highest contribution to total sales**
-* Medium-sized stores consistently outperform other outlet sizes
-* Regular and low-fat items dominate the grocery sales mix
-* Some product categories have **high visibility but low sales**, indicating optimization opportunities
+* Tier 2 outlets generate the **highest total sales**
+* Medium-sized stores outperform other outlet sizes
+* Regular and low-fat items dominate the product sales mix
+* Some item categories have **high visibility but low sales**, indicating optimization opportunities
 
 ---
 
-## 🖼 **Dashboard Preview**
+## 🎥 **Demo Video**
 
-(Add your dashboard screenshot inside `/images` folder and link it below)
-
-```
-![Grabit Dashboard](images/dashboard.png)
-```
+Watch the full dashboard demonstration here:
+👉 **[https://www.youtube.com/watch?v=w4p42dpNxOg](https://www.youtube.com/watch?v=w4p42dpNxOg)**
 
 ---
 
@@ -85,19 +82,6 @@ Data was cleaned for missing values, formatting inconsistencies, and outliers.
 ├── pbix/
 │   └── Grabit_Dashboard.pbix
 │
-├── images/
-│   └── dashboard.png
 │
 └── README.md
 ```
-
----
-
-## 🚀 **How to Use**
-
-1. Download the `.pbix` file from the `pbix` folder
-2. Open it in **Power BI Desktop**
-3. Explore insights using dashboard filters & slicers
-
----
-
